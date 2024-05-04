@@ -1,0 +1,8 @@
+.clickable-icon{
+    cursor:pointer;
+    color:#a0a0a0;
+}
+
+.clickable-icon:hover {
+    color:white;
+}

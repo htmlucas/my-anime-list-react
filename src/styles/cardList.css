@@ -1,0 +1,13 @@
+.options {
+    cursor: pointer;
+    color:dimgray;
+}
+
+.options:hover{
+    color:black;
+}
+
+.card-list:hover{
+    background-color:azure;
+    color:black;
+}

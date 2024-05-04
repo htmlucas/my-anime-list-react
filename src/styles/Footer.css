@@ -1,0 +1,9 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa; /* Cor de fundo do footer */
+    padding: 20px; /* Espaçamento interno do footer */
+    border-top: 1px solid #dee2e6; /* Borda superior do footer */
+    z-index: 1000; /* Para garantir que o footer fique acima de outros elementos, se necessário */
+}
