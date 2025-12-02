@@ -11,7 +11,7 @@ My Anime List é uma aplicação web que permite aos usuários gerenciar suas li
 ## Instalação e Uso
 1. Clone o repositório:
 
-`git clone https://github.com/seu-usuario/my-anime-list.git `
+`git clone https://github.com/htmlucas/my-anime-list.git `
 
 2. Instale as dependências:
 `npm install`
